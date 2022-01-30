@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+}
+
+.food {
+    background-image: url("../img/B9CFC943-A082-4993-9768-5DE36ED69050.png");
+    background-position:center;
+    width: 200px;
+    height: 200px;
+
+}
+
+.box {
+    background-image: url("../img/B9CFC943-A082-4993-9768-5DE36ED69050.png");
+    background-size: contain;
+    background-position: center;
+    padding: 15px;
+}
+
+.ingridients {
+    background:rgb(223, 210, 179);
+    border:2px solid rgb(190, 188, 182);
+    width: 250px;
+    margin: 20px;
+    padding: 30px;
+}
+
+.instructions {
+    background:rgb(223, 210, 179);
+    border:2px solid rgb(190, 188, 182);
+    margin: 10px;
+    padding: 10px;
+}
+
+.food-name {
+    margin: 10px;
+    padding: 20px;
+}
